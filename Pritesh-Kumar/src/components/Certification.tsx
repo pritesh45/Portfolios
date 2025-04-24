@@ -24,7 +24,7 @@ const projects = [
     description:
       "MongoDB is a NoSQL database that stores data in flexible, JSON-like documents instead of tables. It’s great for handling large, unstructured data and is commonly used in modern web apps.",
     tags: ["CRUD", "NOSQL"],
-    // demoUrl: "#",
+    demoUrl: "https://learn.mongodb.com/c/Wkb0c1OlQMCfyL-xxm4o8Q",
    // githubUrl: "https://github.com/Navneetsingh04/Banking-System",
     imageBg: "bg-purple-50 dark:bg-purple-900/20",
     iconColor: "text-purple-500",
