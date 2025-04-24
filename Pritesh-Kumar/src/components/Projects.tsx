@@ -59,8 +59,8 @@ const projects = [
     tags: ["MS Excel", "Data Analysis", "Data Visualization"],
     demoUrl:
       "https://www.canva.com/design/DAGRydbB30E/pUjWIJSTUAD1Pf15WDwCGQ/view?utm_content=DAGRydbB30E&utm_campaign=designshare&utm_medium=embeds&utm_source=link",
-    githubUrl:
-      "https://github.com/Navneetsingh04/Tableau-Dashboards",
+    //githubUrl:
+      //"https://github.com/pritesh45/Tableau-Dashboards",
     imageBg: "bg-green-50 dark:bg-green-900/20",
     iconColor: "text-green-500",
     image: Ipl,
@@ -74,7 +74,7 @@ const projects = [
       "A currency converter web application built with React.js and Tailwind CSS, featuring real-time exchange rates and a user-friendly interface.",
     tags: ["React", "Tailwind CSS", "API Integration"],
     demoUrl: "https://navneetsingh04.github.io/Currency-Converter/",
-    //githubUrl: "https://github.com/Navneetsingh04/Currency-Converter",
+    //githubUrl: "https://github.com/pritesh45/Currency-Converter",
     imageBg: "bg-indigo-50 dark:bg-indigo-900/20",
     iconColor: "text-indigo-500",
     image: currency,
