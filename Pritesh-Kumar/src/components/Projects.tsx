@@ -74,7 +74,7 @@ const projects = [
       "A currency converter web application built with React.js and Tailwind CSS, featuring real-time exchange rates and a user-friendly interface.",
     tags: ["React", "Tailwind CSS", "API Integration"],
     demoUrl: "https://navneetsingh04.github.io/Currency-Converter/",
-    githubUrl: "https://github.com/Navneetsingh04/Currency-Converter",
+    //githubUrl: "https://github.com/Navneetsingh04/Currency-Converter",
     imageBg: "bg-indigo-50 dark:bg-indigo-900/20",
     iconColor: "text-indigo-500",
     image: currency,
